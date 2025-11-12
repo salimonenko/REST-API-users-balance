@@ -64,25 +64,9 @@ for($i=0; $i < sizeof($results); $i++){ // Перебираем строчки �
         }
         $rez_JSON_obj->xhr_status_correct = $xhr_status_correct; // Добавляем дополнительное поле
 
-		
-		
-
-// {"TEST_route":"POST \/api\/deposit","user_id":"2","amount":"510.00","comment":"qwerДо~\"\\:`@#$%;&amp; *(),<.?\/|польty","xhr_status":404,"xhr_status_correct":404} // 33
-
-/*    $TEST_route = $rez_JSON_obj->TEST_route;
-    $user_id = $rez_JSON_obj->user_id;
-    $amount = $rez_JSON_obj->amount;
-    $comment = $rez_JSON_obj->comment;
-    $xhr_status = $rez_JSON_obj->xhr_status;
-    $xhr_status_correct = $rez_JSON_obj->xhr_status_correct;
-
-    $str_TABLE_HTML = '<tr><td>'. $TEST_route .'</td><td>'. $user_id. '</td><td>'. $amount. '</td><td>'. $comment.'</td><td>'. $xhr_status. '</td><td>'. $xhr_status_correct.'</td></tr>'; // 56*/
-
-		
 	
 $results_output[] = $rez_JSON_obj;
 }
-
 
     $rez_JSON_str_new = preg_replace_callback('/\\\u([01-9a-fA-F]{4})/', 'prepareUTF8',
         json_encode( $results_output )
@@ -108,34 +92,3 @@ die_echo_JSON($results_output, 0, 1); // Возвращаем клиенту р�
 function prepareUTF8($matches){ // Декодируем обратно в символы (например, русскоязычные) из последовательностей вида \u3420
    return json_decode('"\u'.$matches[1].'"');
 }
-
-
-
-
-
-
-
-
-die('w');
-
-
-
-    // Анализируем результат выполнения публичного запроса и сообщаем пользователю
-if($public_request !== true){
-
-    if($public_request === 'exists'){ // Если пользователь уже существует
-        http_response_code(400);
-        die_echo_JSON("Пользователь user_id=". myGlobals::$array_REQUEST['user_id'] ." уже существует.", 1, 1);
-        return;
-    }
-
-    http_response_code(201);
-    die_echo_JSON("Пользователь user_id=". myGlobals::$array_REQUEST['user_id'] ." успешно добавлен.", 1, 1);
-    return;
-
-    }else{
-        http_response_code(406);
-        throw new ErrorException('Ошибка при обработке запроса клиента по добавлению пользователя: '. $public_request . ' 1');
-    }
-
-
