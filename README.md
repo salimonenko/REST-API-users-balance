@@ -1,4 +1,5 @@
-﻿Developing the application for managing user balances (Works in PHP 5.3, PHP 8.0):
+http://localhost:8000/REST-API-users-balance/public/
+ Developing the application for managing user balances (Works in PHP 5.3, PHP 8.0):
 — deposit funds,
 — withdraw funds,
 — transfer money between users,
@@ -47,6 +48,8 @@ Additionally:
 404 — user not found
 409 — conflict (e.g., insufficient funds)
 
+
+http://localhost:8000/REST-API-users-balance/public/
 Разработка приложения для работы с балансом пользователей (Работает в PHP 5.3, РНР 8.0):
 —	зачислять средства,
 —	списывать средства,
@@ -95,3 +98,4 @@ GET /api/balance/{user_id}
 	 400 / 422 — ошибки валидации 
 	 404 — пользователь не найден 
 	 409 — конфликт (например, недостаточно средств)
+
