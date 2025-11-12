@@ -1,0 +1,180 @@
+[12-Nov-2025 09:34:19 UTC] PHP Fatal error:  Uncaught TypeError: myExceptionHandler(): Argument #1 ($e) must be of type ErrorException, ParseError given in C:\PHP\REST-API-users-balance\app\Exceptions\errors_exceptions.php:13
+Stack trace:
+#0 [internal function]: myExceptionHandler()
+#1 {main}
+  thrown in C:\PHP\REST-API-users-balance\app\Exceptions\errors_exceptions.php on line 13
+[12-Nov-2025 09:35:34 UTC] PHP Fatal error:  Uncaught TypeError: myExceptionHandler(): Argument #1 ($e) must be of type ErrorException, ParseError given in C:\PHP\REST-API-users-balance\app\Exceptions\errors_exceptions.php:13
+Stack trace:
+#0 [internal function]: myExceptionHandler()
+#1 {main}
+  thrown in C:\PHP\REST-API-users-balance\app\Exceptions\errors_exceptions.php on line 13
+[12-Nov-2025 10:07:40 UTC] PHP Fatal error:  Uncaught TypeError: myExceptionHandler(): Argument #1 ($e) must be of type ErrorException, Error given in C:\PHP\REST-API-users-balance\app\Exceptions\errors_exceptions.php:13
+Stack trace:
+#0 [internal function]: myExceptionHandler()
+#1 {main}
+  thrown in C:\PHP\REST-API-users-balance\app\Exceptions\errors_exceptions.php on line 13
+[12-Nov-2025 10:51:41 UTC] PHP Fatal error:  Uncaught TypeError: myExceptionHandler(): Argument #1 ($e) must be of type ErrorException, TypeError given in C:\PHP\REST-API-users-balance\app\Exceptions\errors_exceptions.php:13
+Stack trace:
+#0 [internal function]: myExceptionHandler()
+#1 {main}
+  thrown in C:\PHP\REST-API-users-balance\app\Exceptions\errors_exceptions.php on line 13
+[12-Nov-2025 10:53:15 UTC] PHP Fatal error:  Uncaught TypeError: myExceptionHandler(): Argument #1 ($e) must be of type ErrorException, TypeError given in C:\PHP\REST-API-users-balance\app\Exceptions\errors_exceptions.php:13
+Stack trace:
+#0 [internal function]: myExceptionHandler()
+#1 {main}
+  thrown in C:\PHP\REST-API-users-balance\app\Exceptions\errors_exceptions.php on line 13
+[12-Nov-2025 10:53:35 UTC] PHP Fatal error:  Uncaught TypeError: myExceptionHandler(): Argument #1 ($e) must be of type ErrorException, TypeError given in C:\PHP\REST-API-users-balance\app\Exceptions\errors_exceptions.php:13
+Stack trace:
+#0 [internal function]: myExceptionHandler()
+#1 {main}
+  thrown in C:\PHP\REST-API-users-balance\app\Exceptions\errors_exceptions.php on line 13
+[12-Nov-2025 10:55:49 UTC] PHP Fatal error:  Uncaught TypeError: myExceptionHandler(): Argument #1 ($e) must be of type ErrorException, TypeError given in C:\PHP\REST-API-users-balance\app\Exceptions\errors_exceptions.php:13
+Stack trace:
+#0 [internal function]: myExceptionHandler()
+#1 {main}
+  thrown in C:\PHP\REST-API-users-balance\app\Exceptions\errors_exceptions.php on line 13
+[12-Nov-2025 10:57:10 UTC] PHP Fatal error:  Uncaught TypeError: myExceptionHandler(): Argument #1 ($e) must be of type ErrorException, TypeError given in C:\PHP\REST-API-users-balance\app\Exceptions\errors_exceptions.php:13
+Stack trace:
+#0 [internal function]: myExceptionHandler()
+#1 {main}
+  thrown in C:\PHP\REST-API-users-balance\app\Exceptions\errors_exceptions.php on line 13
+[12-Nov-2025 10:59:45 UTC] PHP Fatal error:  Uncaught TypeError: myExceptionHandler(): Argument #1 ($e) must be of type ErrorException, TypeError given in C:\PHP\REST-API-users-balance\app\Exceptions\errors_exceptions.php:13
+Stack trace:
+#0 [internal function]: myExceptionHandler()
+#1 {main}
+  thrown in C:\PHP\REST-API-users-balance\app\Exceptions\errors_exceptions.php on line 13
+[12-Nov-2025 11:01:17 UTC] PHP Fatal error:  Uncaught TypeError: myExceptionHandler(): Argument #1 ($e) must be of type ErrorException, TypeError given in C:\PHP\REST-API-users-balance\app\Exceptions\errors_exceptions.php:13
+Stack trace:
+#0 [internal function]: myExceptionHandler()
+#1 {main}
+  thrown in C:\PHP\REST-API-users-balance\app\Exceptions\errors_exceptions.php on line 13
+[12-Nov-2025 11:09:33 UTC] PHP Fatal error:  Uncaught TypeError: myExceptionHandler(): Argument #1 ($e) must be of type ErrorException, TypeError given in C:\PHP\REST-API-users-balance\app\Exceptions\errors_exceptions.php:13
+Stack trace:
+#0 [internal function]: myExceptionHandler()
+#1 {main}
+  thrown in C:\PHP\REST-API-users-balance\app\Exceptions\errors_exceptions.php on line 13
+[12-Nov-2025 11:12:13 UTC] PHP Fatal error:  Uncaught TypeError: myExceptionHandler(): Argument #1 ($e) must be of type ErrorException, TypeError given in C:\PHP\REST-API-users-balance\app\Exceptions\errors_exceptions.php:13
+Stack trace:
+#0 [internal function]: myExceptionHandler()
+#1 {main}
+  thrown in C:\PHP\REST-API-users-balance\app\Exceptions\errors_exceptions.php on line 13
+[12-Nov-2025 11:12:51 UTC] PHP Fatal error:  Uncaught TypeError: myExceptionHandler(): Argument #1 ($e) must be of type ErrorException, TypeError given in C:\PHP\REST-API-users-balance\app\Exceptions\errors_exceptions.php:13
+Stack trace:
+#0 [internal function]: myExceptionHandler()
+#1 {main}
+  thrown in C:\PHP\REST-API-users-balance\app\Exceptions\errors_exceptions.php on line 13
+[12-Nov-2025 11:13:36 UTC] PHP Fatal error:  Uncaught TypeError: myExceptionHandler(): Argument #1 ($e) must be of type ErrorException, TypeError given in C:\PHP\REST-API-users-balance\app\Exceptions\errors_exceptions.php:13
+Stack trace:
+#0 [internal function]: myExceptionHandler()
+#1 {main}
+  thrown in C:\PHP\REST-API-users-balance\app\Exceptions\errors_exceptions.php on line 13
+[12-Nov-2025 11:13:55 UTC] PHP Fatal error:  Uncaught TypeError: myExceptionHandler(): Argument #1 ($e) must be of type ErrorException, TypeError given in C:\PHP\REST-API-users-balance\app\Exceptions\errors_exceptions.php:13
+Stack trace:
+#0 [internal function]: myExceptionHandler()
+#1 {main}
+  thrown in C:\PHP\REST-API-users-balance\app\Exceptions\errors_exceptions.php on line 13
+[12-Nov-2025 11:14:36 UTC] PHP Fatal error:  Uncaught TypeError: myExceptionHandler(): Argument #1 ($e) must be of type ErrorException, TypeError given in C:\PHP\REST-API-users-balance\app\Exceptions\errors_exceptions.php:13
+Stack trace:
+#0 [internal function]: myExceptionHandler()
+#1 {main}
+  thrown in C:\PHP\REST-API-users-balance\app\Exceptions\errors_exceptions.php on line 13
+[12-Nov-2025 11:28:02 UTC] PHP Fatal error:  Uncaught TypeError: myExceptionHandler(): Argument #1 ($e) must be of type ErrorException, ParseError given in C:\PHP\REST-API-users-balance\app\Exceptions\errors_exceptions.php:13
+Stack trace:
+#0 [internal function]: myExceptionHandler()
+#1 {main}
+  thrown in C:\PHP\REST-API-users-balance\app\Exceptions\errors_exceptions.php on line 13
+[12-Nov-2025 11:28:07 UTC] PHP Fatal error:  Uncaught TypeError: myExceptionHandler(): Argument #1 ($e) must be of type ErrorException, ParseError given in C:\PHP\REST-API-users-balance\app\Exceptions\errors_exceptions.php:13
+Stack trace:
+#0 [internal function]: myExceptionHandler()
+#1 {main}
+  thrown in C:\PHP\REST-API-users-balance\app\Exceptions\errors_exceptions.php on line 13
+[12-Nov-2025 11:30:12 UTC] PHP Fatal error:  Uncaught TypeError: myExceptionHandler(): Argument #1 ($e) must be of type ErrorException, Error given in C:\PHP\REST-API-users-balance\app\Exceptions\errors_exceptions.php:13
+Stack trace:
+#0 [internal function]: myExceptionHandler()
+#1 {main}
+  thrown in C:\PHP\REST-API-users-balance\app\Exceptions\errors_exceptions.php on line 13
+[12-Nov-2025 11:32:28 UTC] PHP Fatal error:  Uncaught TypeError: myExceptionHandler(): Argument #1 ($e) must be of type ErrorException, Error given in C:\PHP\REST-API-users-balance\app\Exceptions\errors_exceptions.php:13
+Stack trace:
+#0 [internal function]: myExceptionHandler()
+#1 {main}
+  thrown in C:\PHP\REST-API-users-balance\app\Exceptions\errors_exceptions.php on line 13
+[12-Nov-2025 11:33:12 UTC] PHP Fatal error:  Uncaught TypeError: myExceptionHandler(): Argument #1 ($e) must be of type ErrorException, Error given in C:\PHP\REST-API-users-balance\app\Exceptions\errors_exceptions.php:13
+Stack trace:
+#0 [internal function]: myExceptionHandler()
+#1 {main}
+  thrown in C:\PHP\REST-API-users-balance\app\Exceptions\errors_exceptions.php on line 13
+[12-Nov-2025 11:51:36 UTC] PHP Fatal error:  Uncaught TypeError: myExceptionHandler(): Argument #1 ($e) must be of type ErrorException, Error given in C:\PHP\REST-API-users-balance\app\Exceptions\errors_exceptions.php:13
+Stack trace:
+#0 [internal function]: myExceptionHandler()
+#1 {main}
+  thrown in C:\PHP\REST-API-users-balance\app\Exceptions\errors_exceptions.php on line 13
+[12-Nov-2025 12:00:46 UTC] PHP Fatal error:  Uncaught TypeError: myExceptionHandler(): Argument #1 ($e) must be of type ErrorException, Error given in C:\PHP\REST-API-users-balance\app\Exceptions\errors_exceptions.php:13
+Stack trace:
+#0 [internal function]: myExceptionHandler()
+#1 {main}
+  thrown in C:\PHP\REST-API-users-balance\app\Exceptions\errors_exceptions.php on line 13
+[12-Nov-2025 12:02:14 UTC] PHP Fatal error:  Uncaught TypeError: myExceptionHandler(): Argument #1 ($e) must be of type ErrorException, TypeError given in C:\PHP\REST-API-users-balance\app\Exceptions\errors_exceptions.php:13
+Stack trace:
+#0 [internal function]: myExceptionHandler()
+#1 {main}
+  thrown in C:\PHP\REST-API-users-balance\app\Exceptions\errors_exceptions.php on line 13
+[12-Nov-2025 12:11:10 UTC] PHP Fatal error:  Uncaught TypeError: myExceptionHandler(): Argument #1 ($e) must be of type ErrorException, Error given in C:\PHP\REST-API-users-balance\app\Exceptions\errors_exceptions.php:13
+Stack trace:
+#0 [internal function]: myExceptionHandler()
+#1 {main}
+  thrown in C:\PHP\REST-API-users-balance\app\Exceptions\errors_exceptions.php on line 13
+[12-Nov-2025 12:11:55 UTC] PHP Fatal error:  Uncaught TypeError: myExceptionHandler(): Argument #1 ($e) must be of type ErrorException, TypeError given in C:\PHP\REST-API-users-balance\app\Exceptions\errors_exceptions.php:13
+Stack trace:
+#0 [internal function]: myExceptionHandler()
+#1 {main}
+  thrown in C:\PHP\REST-API-users-balance\app\Exceptions\errors_exceptions.php on line 13
+[12-Nov-2025 12:12:44 UTC] PHP Fatal error:  Uncaught TypeError: myExceptionHandler(): Argument #1 ($e) must be of type ErrorException, Error given in C:\PHP\REST-API-users-balance\app\Exceptions\errors_exceptions.php:13
+Stack trace:
+#0 [internal function]: myExceptionHandler()
+#1 {main}
+  thrown in C:\PHP\REST-API-users-balance\app\Exceptions\errors_exceptions.php on line 13
+[12-Nov-2025 12:13:22 UTC] PHP Fatal error:  Uncaught TypeError: myExceptionHandler(): Argument #1 ($e) must be of type ErrorException, TypeError given in C:\PHP\REST-API-users-balance\app\Exceptions\errors_exceptions.php:13
+Stack trace:
+#0 [internal function]: myExceptionHandler()
+#1 {main}
+  thrown in C:\PHP\REST-API-users-balance\app\Exceptions\errors_exceptions.php on line 13
+[12-Nov-2025 12:15:01 UTC] PHP Fatal error:  Uncaught TypeError: myExceptionHandler(): Argument #1 ($e) must be of type ErrorException, ParseError given in C:\PHP\REST-API-users-balance\app\Exceptions\errors_exceptions.php:13
+Stack trace:
+#0 [internal function]: myExceptionHandler()
+#1 {main}
+  thrown in C:\PHP\REST-API-users-balance\app\Exceptions\errors_exceptions.php on line 13
+[12-Nov-2025 12:15:05 UTC] PHP Fatal error:  Uncaught TypeError: myExceptionHandler(): Argument #1 ($e) must be of type ErrorException, ParseError given in C:\PHP\REST-API-users-balance\app\Exceptions\errors_exceptions.php:13
+Stack trace:
+#0 [internal function]: myExceptionHandler()
+#1 {main}
+  thrown in C:\PHP\REST-API-users-balance\app\Exceptions\errors_exceptions.php on line 13
+[12-Nov-2025 12:15:30 UTC] PHP Fatal error:  Uncaught TypeError: myExceptionHandler(): Argument #1 ($e) must be of type ErrorException, ParseError given in C:\PHP\REST-API-users-balance\app\Exceptions\errors_exceptions.php:13
+Stack trace:
+#0 [internal function]: myExceptionHandler()
+#1 {main}
+  thrown in C:\PHP\REST-API-users-balance\app\Exceptions\errors_exceptions.php on line 13
+[12-Nov-2025 12:15:46 UTC] PHP Fatal error:  Uncaught TypeError: myExceptionHandler(): Argument #1 ($e) must be of type ErrorException, ParseError given in C:\PHP\REST-API-users-balance\app\Exceptions\errors_exceptions.php:13
+Stack trace:
+#0 [internal function]: myExceptionHandler()
+#1 {main}
+  thrown in C:\PHP\REST-API-users-balance\app\Exceptions\errors_exceptions.php on line 13
+[12-Nov-2025 12:16:04 UTC] PHP Fatal error:  Uncaught TypeError: myExceptionHandler(): Argument #1 ($e) must be of type ErrorException, ParseError given in C:\PHP\REST-API-users-balance\app\Exceptions\errors_exceptions.php:13
+Stack trace:
+#0 [internal function]: myExceptionHandler()
+#1 {main}
+  thrown in C:\PHP\REST-API-users-balance\app\Exceptions\errors_exceptions.php on line 13
+[12-Nov-2025 12:16:22 UTC] PHP Fatal error:  Uncaught TypeError: myExceptionHandler(): Argument #1 ($e) must be of type ErrorException, ParseError given in C:\PHP\REST-API-users-balance\app\Exceptions\errors_exceptions.php:13
+Stack trace:
+#0 [internal function]: myExceptionHandler()
+#1 {main}
+  thrown in C:\PHP\REST-API-users-balance\app\Exceptions\errors_exceptions.php on line 13
+[12-Nov-2025 12:16:27 UTC] PHP Fatal error:  Uncaught TypeError: myExceptionHandler(): Argument #1 ($e) must be of type ErrorException, ParseError given in C:\PHP\REST-API-users-balance\app\Exceptions\errors_exceptions.php:13
+Stack trace:
+#0 [internal function]: myExceptionHandler()
+#1 {main}
+  thrown in C:\PHP\REST-API-users-balance\app\Exceptions\errors_exceptions.php on line 13
+[12-Nov-2025 12:16:52 UTC] PHP Fatal error:  Uncaught TypeError: myExceptionHandler(): Argument #1 ($e) must be of type ErrorException, ParseError given in C:\PHP\REST-API-users-balance\app\Exceptions\errors_exceptions.php:13
+Stack trace:
+#0 [internal function]: myExceptionHandler()
+#1 {main}
+  thrown in C:\PHP\REST-API-users-balance\app\Exceptions\errors_exceptions.php on line 13
